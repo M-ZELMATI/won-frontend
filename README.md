@@ -15,6 +15,10 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 
 ## Project Setup
 
+Clone project
+```sh
+git clone https://github.com/M-ZELMATI/won-frontend.git
+```
 ```sh
 npm install
 ```
@@ -24,4 +28,4 @@ npm install
 ```sh
 npm run dev
 ```
-
+### Access to :  http://localhost:5173
